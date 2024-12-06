@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Todor Kostadinov
-- 👀 I’m interested in Coding, Technology, Transportation and Aero Space
+- 👀 I’m interested in Coding, Technology, Transportation and AeroSpace
 - 🌱 I’m currently learning Angular
 
 <!---
